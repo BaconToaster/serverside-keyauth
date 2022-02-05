@@ -7,7 +7,7 @@ This is way more secure than client side authentication if you implement it corr
 ### How to implement this correctly?
 - Encrypt the packets
 - Make the packets invalid after being used once
-- Handle key parts of the application from the server so a cracker cannot just jump to a function in order to bypass the authentication
+- Handle key parts of the application from the server (just like I sent the parameters for MessageBoxA in the example) so a cracker cannot just jump to a function in order to bypass the authentication
 
 ### Building
 
