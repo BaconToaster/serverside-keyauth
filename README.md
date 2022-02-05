@@ -26,7 +26,7 @@ Now you can execute `server`
 - - - -
 #### Building the client:
 Open the solution and click Build -> Rebuild Solution
-
+- - - -
 ### Example output
 Client:
 
