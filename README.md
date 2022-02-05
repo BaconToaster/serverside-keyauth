@@ -30,8 +30,8 @@ Open the solution and click Build -> Rebuild Solution
 ### Example output
 Client:
 
-[![](https://i.imgur.com/YaYT7OM.png)
+![](https://i.imgur.com/YaYT7OM.png)
 
 Server:
 
-[![](https://i.imgur.com/U6xg2SZ.png)
+![](https://i.imgur.com/U6xg2SZ.png)
