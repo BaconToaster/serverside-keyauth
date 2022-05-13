@@ -3,6 +3,8 @@ Serverside Keyauth
 This is way more secure than client side authentication if you implement it correctly and do some extra steps.
 
 - - - -
+I would recommend to use asio instead of native sockets
+- - - -
 
 ### How to implement this correctly?
 - Encrypt the packets
